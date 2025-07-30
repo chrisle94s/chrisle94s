@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Chris LE (Cuong LE)
-
 ## 🚀 About Me
 Data Engineer passionate about building robust data pipelines and analytics solutions. I specialize in designing scalable data infrastructure and real-time processing systems.
 
